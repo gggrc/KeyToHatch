@@ -21,17 +21,18 @@
 
 ## 📁 Project Structure
 KeytoHatch/
-├── src/ 
-│ ├── Main.java
-│ ├── GameMenu.java
-│ ├── GameOver.java
-│ ├── TypingGameEasy.java
-│ ├── TypingGameMedium.java
-│ ├── TypingGameSurvival.java
-│ └── KeyAdapter.java
-├── bin/ 
-├── .vscode/ 
-└── README.md 
+├── src/
+│   ├── Main.java
+│   ├── GameMenu.java
+│   ├── GameOver.java
+│   ├── TypingGameEasy.java
+│   ├── TypingGameMedium.java
+│   ├── TypingGameSurvival.java
+│   └── KeyAdapter.java
+├── bin/
+├── .vscode/
+└── README.md
+
 
 
 ---
