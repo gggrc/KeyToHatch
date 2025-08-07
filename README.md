@@ -19,7 +19,23 @@
 
 ---
 
-<pre> ## 📁 Project Structure ```text KeytoHatch/ │ ├── src/ │ ├── Main.java │ ├── GameMenu.java │ ├── GameOver.java │ ├── TypingGameEasy.java │ ├── TypingGameMedium.java │ ├── TypingGameSurvival.java │ └── KeyAdapter.java │ ├── bin/ ├── .vscode/ └── README.md ``` </pre>
+## 📁 Project Structure
+
+```text
+KeytoHatch/
+│
+├── src/
+│   ├── Main.java
+│   ├── GameMenu.java
+│   ├── GameOver.java
+│   ├── TypingGameEasy.java
+│   ├── TypingGameMedium.java
+│   ├── TypingGameSurvival.java
+│   └── KeyAdapter.java
+│
+├── bin/
+├── .vscode/
+└── README.md
 
 ---
 
