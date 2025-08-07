@@ -21,6 +21,7 @@
 
 ## 📁 Project Structure
 KeytoHatch/
+│
 ├── src/
 │   ├── Main.java
 │   ├── GameMenu.java
@@ -29,9 +30,11 @@ KeytoHatch/
 │   ├── TypingGameMedium.java
 │   ├── TypingGameSurvival.java
 │   └── KeyAdapter.java
+│
 ├── bin/
 ├── .vscode/
 └── README.md
+
 
 
 
